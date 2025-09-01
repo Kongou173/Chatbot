@@ -1,6 +1,6 @@
 // URL制限のための確認
 (function() {
-    const allowedDomain = "https://kongou173.github.io/Chatbot/"; // ここに許可するURLを正確に入力してください。例: "your-username.github.io"
+    const allowedDomain = "https://kongou173.github.io/Chatbot/";
     const currentDomain = window.location.hostname;
 
     if (currentDomain !== allowedDomain) {
