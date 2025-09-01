@@ -8,7 +8,7 @@
         document.addEventListener('DOMContentLoaded', function() {
             document.body.innerHTML = `
                 <div style="text-align: center; padding: 50px; font-family: Arial, sans-serif;">
-                    <h1 style="color: #39c5bb;">chatbot</h1>
+                    <h1 style="color: #39c5bb;">Error</h1>
                     <p style="margin: 20px 0;">このWebアプリケーションは <a href="https://kongou173.github.io/Chatbot/" style="color: #39c5bb; text-decoration: none;">https://kongou173.github.io/Chatbot/</a> でのみ動作します。</p>
                     <p>正規のWebサイトにアクセスしてください。</p>
                 </div>
